@@ -1,7 +1,7 @@
 # Data Mining
 
 ## Exercises
-* [Practicals 0](en/practical0/practical0.md):  [Jupyter Notebook 0](en/practical0/practical0.ipynb) (Optional)
+* [Practicals 0](en/practical0/practical0.md):  [Jupyter Notebook 0](en/practical0/practical0.ipynb)
 * [Practicals 1](en/practical1/practical1.md):  [Jupyter Notebook 1](en/practical1/practical1.ipynb)
 * [Practicals 2](en/practical2/practical2.md):  [Jupyter Notebook 2](en/practical2/practical2.ipynb)
 * [Practicals 3](en/practical3/practical3.md):  [Jupyter Notebook 3](en/practical3/practical3.ipynb)
