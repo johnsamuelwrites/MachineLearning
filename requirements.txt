@@ -1,8 +1,9 @@
 papermill
 pandas
-sklearn
+scikit-learn
 matplotlib
 ipython 
 ipykernel
 jupyter-core
 mathjax>=0.1.2
+black[jupyter]
