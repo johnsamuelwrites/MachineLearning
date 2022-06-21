@@ -23,6 +23,7 @@ Practical Sessions of Data Mining and Machine Learning
 * John Samuel
 
 ## Archives and Releases
+* [Zenodo](https://doi.org/10.5281/zenodo.6675275)
 * [Release Notes](RELEASE.md)
 
 ## Licence
