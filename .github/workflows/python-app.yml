@@ -51,4 +51,12 @@ jobs:
         cd ../../ ; cd fr/TP3/
         papermill tp3.ipynb tmp.ipynb
         rm tmp.ipynb
+        cd ../../ ; cd ./examples/
+        papermill Examples.ipynb tmp.ipynb
+        papermill decisiontree.ipynb tmp.ipynb
+        papermill mlp.ipynb tmp.ipynb
+        papermill perceptron.ipynb tmp.ipynb
+        papermill rfc.ipynb tmp.ipynb
+        papermill svm.ipynb tmp.ipynb
+        rm tmp.ipynb
 
