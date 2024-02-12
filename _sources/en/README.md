@@ -1,7 +1,8 @@
 # Instructions 
 
 ## Exercises
-* [Jupyter Notebook 0](./practical0/practical0.ipynb) (Optional)
+* [Installation](./installation.ipynb)
+* [Jupyter Notebook 0](./practical0/practical0.ipynb)
 * [Jupyter Notebook 1](./practical1/practical1.ipynb)
 * [Jupyter Notebook 2](./practical2/practical2.ipynb)
 * [Jupyter Notebook 3](./practical3/practical3.ipynb)
