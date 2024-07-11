@@ -1,3 +1,18 @@
+# v1.2
+===============================================================================
+- Add separate installation page
+- Add examples of recommendation systems
+- Update workflow action
+- Add example on visualization
+- Update requirements.txt
+- Add example on ipywidgets and user interaction
+
+# v1.1
+===============================================================================
+- Update code changes related to new package versions
+- Add supplementary exercises
+- Update exercises and project description
+
 # v1.0
 ===============================================================================
 ## English
