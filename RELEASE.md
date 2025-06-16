@@ -1,3 +1,12 @@
+# v1.3
+===============================================================================
+- Add SWHID link
+- Update exercises with questions
+- Update exercises
+- Update project instructions
+- Update RELEASE.md notes
+
+
 # v1.2
 ===============================================================================
 - Add separate installation page
