@@ -1,4 +1,4 @@
-# Data Mining Examples
+# Data Mining and Machine Learning Examples
 
 Some detailed examples are given here:
 
