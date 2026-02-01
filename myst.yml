@@ -41,6 +41,6 @@ project:
         - file: examples/Examples.ipynb
 site:
   options:
-    logo: MachineLearning.svg
+    logo: machinelearning.svg
     folders: true
   template: book-theme
