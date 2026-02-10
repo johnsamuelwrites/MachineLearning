@@ -46,6 +46,9 @@ jobs:
           cd ../../ ; cd en/practical3/
           papermill practical3.ipynb tmp.ipynb
           rm tmp.ipynb
+          cd ../../ ; cd en/practical4/
+          papermill practical4.ipynb tmp.ipynb
+          rm tmp.ipynb
           cd ../../ ; cd fr/
           papermill installation.ipynb tmp.ipynb
           rm tmp.ipynb
@@ -60,6 +63,9 @@ jobs:
           rm tmp.ipynb
           cd ../../ ; cd fr/TP3/
           papermill tp3.ipynb tmp.ipynb
+          rm tmp.ipynb
+          cd ../../ ; cd fr/TP4/
+          papermill tp4.ipynb tmp.ipynb
           rm tmp.ipynb
           cd ../../ ; cd ./examples/
           papermill Examples-Visualization.ipynb tmp.ipynb
